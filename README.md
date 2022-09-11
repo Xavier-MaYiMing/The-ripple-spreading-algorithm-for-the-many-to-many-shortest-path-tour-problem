@@ -29,7 +29,7 @@ The shortest path tour problem aims to find the shortest path that traverses mul
 
 #### Example
 
-![m2mSPTP_example](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the many-to-many shortest path tour problem\m2mSPTP_example.png)
+![image](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-many-to-many-shortest-path-tour-problem/blob/main/m2mSPTP_example.png)
 
 ```python
 if __name__ == '__main__':
