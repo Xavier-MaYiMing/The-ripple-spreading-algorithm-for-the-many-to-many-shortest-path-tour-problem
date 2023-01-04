@@ -73,7 +73,7 @@ def subRSA(network, neighbor, source, destination, init_time, init_radius, v):
         if flag:
             break
 
-        # Step 2.2. Time updates and generate initial ripples
+        # Step 2.2. Time updates
         t += 1
         incoming_ripples = {}
         for ripple in active_set:
