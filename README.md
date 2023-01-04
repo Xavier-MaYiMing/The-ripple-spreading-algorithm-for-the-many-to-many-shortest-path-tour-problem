@@ -1,7 +1,5 @@
 ### The Ripple-Spreading Algorithm for the Many-to-Many Shortest Path Problem
 
-##### Reference: 马一鸣，胡小兵，周航. 一种快速求解最短路径巡游问题的涟漪扩散算法[J]. 计算机应用研究.
-
 The shortest path tour problem aims to find the shortest path that traverses multiple disjoint node subsets in a given order. The many-to-many shortest path tour problem has multiple sources and destinations. It aims to determine the shortest path tour for every source node to any one of the destination nodes.
 
 ----
