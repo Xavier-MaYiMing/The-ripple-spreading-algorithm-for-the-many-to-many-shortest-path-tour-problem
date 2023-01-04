@@ -5,7 +5,6 @@
 # @Email   : xavier_mayiming@163.com
 # @File    : RSA4m2mSPTP.py
 # @Statement : The ripple-spreading algorithm for the many-to-many shortest path problem
-# @Reference : 马一鸣，胡小兵，周航. 一种快速求解最短路径巡游问题的涟漪扩散算法[J]. 计算机应用研究.
 import copy
 
 
